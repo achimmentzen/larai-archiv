@@ -1,5 +1,5 @@
 # larai-archiv
-Öffentliches Archiv. Texte entstehen schrittweise.
+Öffentliches Archiv Achim Mentzen. Texte entstehen schrittweise.
 # Öffentlicher Archiv-Inhalt
 
 IPFS:
